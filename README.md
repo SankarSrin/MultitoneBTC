@@ -3,6 +3,8 @@ Ref paper:
 
 **Enhanced Block Truncation Coding Image using Digital Multi-tone Screen**
 
+J.M. Guo and  S. Sankarasrinivasan. "Enhanced block truncation coding image using digital multitone screen." In 2017 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), pp. 672-676. IEEE, 2017.
+
 Abstract— An improved version of Block Truncation Coding
 (BTC) termed Multitone Block Truncation Coding (MTBTC) is
 proposed. The presented framework exploits the digital multi

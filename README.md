@@ -1,7 +1,7 @@
 # MultitoneBTC
 Ref paper:
 
-**Enhanced Block Truncation Coding Image using Digital Multi-tone Screen **
+**Enhanced Block Truncation Coding Image using Digital Multi-tone Screen**
 
 Abstract— An improved version of Block Truncation Coding
 (BTC) termed Multitone Block Truncation Coding (MTBTC) is

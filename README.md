@@ -29,7 +29,7 @@ compression for high resolution images and can be exploited
 further to adopt in artificial intelligent tasks.
 
 
-![Input Image](https://github.com/SankarSrin/MultitoneBTC/Image/Test5.jpg)
+![Input Image](https://github.com/SankarSrin/MultitoneBTC/blob/master/Image/Test5.jpg)
 
-![4Tone_16_BlockSize Image](https://github.com/SankarSrin/MultitoneBTC/Image/Test5_16_4Tone.png)
+![4Tone_16_BlockSize Image](https://github.com/SankarSrin/MultitoneBTC/blob/master/Image/Test5_16_4Tone.png)
 

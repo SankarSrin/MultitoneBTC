@@ -28,8 +28,17 @@ In overall, the proposed scheme is an ideal candidate to implement
 compression for high resolution images and can be exploited
 further to adopt in artificial intelligent tasks.
 
-
+INPUT IMAGE
 ![Input Image](https://github.com/SankarSrin/MultitoneBTC/blob/master/Image/Test5.jpg)
 
+MTBTC 4-Tone 16x16 Block Size 
 ![4Tone_16_BlockSize Image](https://github.com/SankarSrin/MultitoneBTC/blob/master/Image/Test5_16_4Tone.png)
+
+MTBTC 4-Tone 32x32 Block Size 
+![4Tone_32_BlockSize Image](https://github.com/SankarSrin/MultitoneBTC/blob/master/Image/Test5_32_4Tone.png)
+
+MTBTC 4-Tone 64x64 Block Size 
+![4Tone_64_BlockSize Image](https://github.com/SankarSrin/MultitoneBTC/blob/master/Image/Test5_64_4Tone.png)
+
+
 

@@ -27,3 +27,9 @@ higher block size processing and it is computationally very simple.
 In overall, the proposed scheme is an ideal candidate to implement
 compression for high resolution images and can be exploited
 further to adopt in artificial intelligent tasks.
+
+
+![Input Image](https://github.com/SankarSrin/MultitoneBTC/Image/Test5.jpg)
+
+![4Tone_16_BlockSize Image](https://github.com/SankarSrin/MultitoneBTC/Image/Test5_16_4Tone.png)
+
